@@ -1,0 +1,11 @@
+{
+    "jsMapGenerationFixes": {
+        "Jebus Cross": {
+            "zoneRepulsion": true
+        },
+        "Jebus Outcast": {
+            "forbidHiringHeroes": true,
+            "zoneRepulsion": true
+        }
+    }
+}
