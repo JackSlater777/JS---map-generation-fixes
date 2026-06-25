@@ -1,9 +1,23 @@
+Version 1.5 (25.06.2026)
+- added syncronization for HD_WOG and XXL maps, fixed many bugs; in order those fixes to work you need to have current version of HD mod (NOT THE NEWEST!), which is downloaded with the ERA
+- implemented a HotA decor objects placement algorithm
+- mine placement has been optimized
+- mine guards are now always located under the entrance tile to the object
+- zones are no longer always perfectly round
+- fixed leaky passages between zones
+- implemented a HotA road generation algorithm
+- objects no longer generate on the road
+- high value water objects now generate in water zones
+
+
 Version 1.3 (17.05.2026)
 - added json for "zoneRepulsion" and "forbidHiringHeroes" options customization
 - added "Jebus Outcast" template
 
+
 Version 1.2 (14.05.2026)
 - added zone repulsion to the "Jebus Outcast" template
+
 
 Version 1.1 (10.10.2025)
 - fixed bug: some objects were unreachable due to incorrect decorations generation
