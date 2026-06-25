@@ -1,6 +1,6 @@
 {
 	"caption": {
-		"en_US": "JS - map generation fixes v.1.5",
+		"en_US": "JS - map generation fixes v.1.5.1",
 		"ru_RU": ""
 	},
 	"description": {
@@ -19,7 +19,7 @@
 		"file": "js - map generation fixes.png",
 		"index": 0
 	},
-	"mod_version": "1.5",
+	"mod_version": "1.5.1",
 	"priority": 3,
 	"compatibility": {
 		"class": "default",

@@ -1,3 +1,7 @@
+Version 1.5 hotfix 1  (25.06.2026)
+- fixed small bug in object placement algorithm
+
+
 Version 1.5 (25.06.2026)
 - added syncronization for HD_WOG and XXL maps, fixed many bugs; in order those fixes to work you need to have current version of HD mod (NOT THE NEWEST!), which is downloaded with the ERA
 - implemented a HotA decor objects placement algorithm
