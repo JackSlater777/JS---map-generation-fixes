@@ -1,6 +1,7 @@
 {
     "jsMapGenerationFixes": {
         "Jebus Cross": {
+            "prisonGeneration": true,
             "zoneRepulsion": true
         },
         "Jebus Outcast": {

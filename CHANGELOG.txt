@@ -1,3 +1,8 @@
+Version 1.6 (27.06.2026)
+- fixed all bugs related to prisons generation
+- added json for "prisonGeneration" option customization (by default they are enabled only for Jebus Cross)
+
+
 Version 1.5 hotfix 1  (25.06.2026)
 - fixed small bug in object placement algorithm
 
