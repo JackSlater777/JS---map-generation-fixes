@@ -1,12 +1,16 @@
 {
     "jsMapGenerationFixes": {
-        "Jebus Cross": {
-            "prisonGeneration": true,
-            "zoneRepulsion": true
-        },
-        "Jebus Outcast": {
-            "forbidHiringHeroes": true,
-            "zoneRepulsion": true
+
+        "templates": {
+            "Jebus Cross": {
+                "prisonGeneration": true,
+                "maxPrisonsPerZone": 3,
+                "zoneRepulsion": true
+            },
+            "Jebus Outcast": {
+                "forbidHiringHeroes": true,
+                "zoneRepulsion": true
+            }
         }
     }
 }

@@ -1,3 +1,11 @@
+Version 1.7 (09.07.2026)
+- fixed a generation crash without HD mode
+- added decoration types 139 and 140 to generation
+- added the maxPrisonsPerZone key, which works if the template has prisonGeneration enabled
+- fixed a bug: When selecting "random" map water level, the generated map was always without water
+- the "random" map water level button now immediately sets the map water level to random state
+
+
 Version 1.6 (27.06.2026)
 - fixed all bugs related to prisons generation
 - added json for "prisonGeneration" option customization (by default they are enabled only for Jebus Cross)
