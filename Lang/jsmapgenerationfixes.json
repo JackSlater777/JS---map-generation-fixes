@@ -11,6 +11,11 @@
                 "forbidHiringHeroes": true,
                 "zoneRepulsion": true
             }
+        },
+
+        "42": {
+            "zone": 1,
+            "value": 20000
         }
     }
 }

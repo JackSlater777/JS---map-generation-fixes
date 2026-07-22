@@ -1,3 +1,10 @@
+Version 1.8 (22.07.2026)
+- separated RMG_Menu.era from main file, so this mod is independent of the hd-mod version from now on
+- added a generation of lighthouses
+- you can customize quantity of lighthouses per zone and its value (in this case a guard will be generated as well)
+- now all campaign heroes are banned on random maps (there was a bug with Sir Mullich being available in tavern or as a random hero) 
+
+
 Version 1.7 (09.07.2026)
 - fixed a generation crash without HD mode
 - added decoration types 139 and 140 to generation

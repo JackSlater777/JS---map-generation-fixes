@@ -1,12 +1,3 @@
-*********************************
-!!!!! WARNING !!!!!
-If the installed version of the HD-Mod is different from the supported ones, the game will crash!
-
-Supported HD-Mod versions:
-- 5.5 R71
-*********************************
-
-
 This mod fixes all major bugs that occur when generating a random map.
 
 In addition to this, the mod provides 3 templates:
