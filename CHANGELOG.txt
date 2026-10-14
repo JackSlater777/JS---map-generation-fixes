@@ -1,3 +1,7 @@
+Version 1.9 (14.10.2026)
+- fixed several bugs
+
+
 Version 1.8 (22.07.2026)
 - separated RMG_Menu.era from main file, so this mod is independent of the hd-mod version from now on
 - added a generation of lighthouses
