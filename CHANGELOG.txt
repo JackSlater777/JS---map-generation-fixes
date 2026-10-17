@@ -1,3 +1,7 @@
+Version 1.10 (17.10.2026)
+- restored a compatibility with TUM full mod
+
+
 Version 1.9 (14.10.2026)
 - fixed several bugs
 
