@@ -5,11 +5,11 @@
             "Jebus Cross": {
                 "prisonGeneration": true,
                 "maxPrisonsPerZone": 3,
-                "zoneRepulsion": true
+                "zoneRepulsion": [false, true, true, true, true]
             },
             "Jebus Outcast": {
                 "forbidHiringHeroes": true,
-                "zoneRepulsion": true
+                "zoneRepulsion": [false, true, true, true, true]
             }
         },
 

@@ -1,3 +1,9 @@
+Version 1.11 (18.10.2026)
+- 2 errors in the placement algorithm have been fixed
+- "zoneRepulsion" attribute now works as an attribute in hota-like templates, it's applied to a zone, not to a template, and it is represented as an array of boolean variables instead of a single boolean variable
+- zones now correctly push away from one another; for instance, in a two-player *Jebus Cross* map, the players' zones will be positioned opposite each other and will not share a common boundary
+
+
 Version 1.10 (17.10.2026)
 - restored a compatibility with TUM full mod
 
