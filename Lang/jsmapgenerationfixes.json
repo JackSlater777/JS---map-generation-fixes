@@ -3,8 +3,6 @@
 
         "templates": {
             "Jebus Cross": {
-                "prisonGeneration": true,
-                "maxPrisonsPerZone": 3,
                 "zoneRepulsion": [false, true, true, true, true]
             },
             "Jebus Outcast": {

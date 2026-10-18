@@ -1,3 +1,9 @@
+Version 1.12 (18.10.2026)
+- "maxPrisonsPerZone" template parameter is removed since it was transferred to RMG_CustomizeObjectProperties plugin
+- inaccuracies in the decoration placement algorithm have been fixed
+- fixed a crash related to the generation of underground gates
+
+
 Version 1.11 (18.10.2026)
 - 2 errors in the placement algorithm have been fixed
 - "zoneRepulsion" attribute now works as an attribute in hota-like templates, it's applied to a zone, not to a template, and it is represented as an array of boolean variables instead of a single boolean variable
