@@ -7,6 +7,7 @@
             },
             "Jebus Outcast": {
                 "forbidHiringHeroes": true,
+                "zoneSparseness": 0.1,
                 "zoneRepulsion": [false, true, true, true, true]
             }
         },

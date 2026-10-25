@@ -1,3 +1,15 @@
+Version 1.13 (25.10.2026)
+- synchronized with the "ERA Spells" mod – new spells can now appear in scrolls and Pandoras
+- now, the value of a dwelling also depends on the number of cities on the map where that dwelling can be built
+- fixed incorrect attributes in the text file for the Jebus Outcast template
+- now, AI hero never retreats if the map is created using the Outcast template
+- added zoneSparseness json template attribute
+- SoD bug fix: Lord Haart, who is available for selection on random maps, couldnot appear in a tavern or prison
+- fixed many inaccuracies in the object/decoration placement algorithm
+- now the boundaries between the zones are "thicker"
+- now the shapes of the zones less frequently contain narrow projections
+
+
 Version 1.12 (18.10.2026)
 - "maxPrisonsPerZone" template parameter is removed since it was transferred to RMG_CustomizeObjectProperties plugin
 - inaccuracies in the decoration placement algorithm have been fixed
