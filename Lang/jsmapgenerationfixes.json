@@ -3,12 +3,31 @@
 
         "templates": {
             "Jebus Cross": {
-                "zoneRepulsion": [false, true, true, true, true]
+                "objects": "+95 0 d d d 3 +144 4 d d d 3 +144 5 d d d 3",
+                "zone": {
+                    "objects": [
+                        "",
+                        "+145 0 d d d d ",
+                        "+145 0 d d d d ",
+                        "+145 0 d d d d ",
+                        "+145 0 d d d d "
+                    ],
+                    "zoneRepulsion": [false, true, true, true, true]
+                }
             },
             "Jebus Outcast": {
                 "forbidHiringHeroes": true,
                 "zoneSparseness": 0.1,
-                "zoneRepulsion": [false, true, true, true, true]
+                "zone": {
+                    "objects": [
+                        "-62 n n -95",
+                        "-62 n n -95",
+                        "-62 n n -95",
+                        "-62 n n -95",
+                        "-62 n n -95"
+                    ],
+                    "zoneRepulsion": [false, true, true, true, true]
+                }
             }
         },
 

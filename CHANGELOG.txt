@@ -1,3 +1,12 @@
+Version 1.14 (07.11.2026)
+- synchronized with the latest assembly version - v2.300
+- returned a prison generation (it was disabled in RMG_CustomizeObjectProperties)
+- returned a seer hut generation (it was disabled in RMG_CustomizeObjectProperties)
+- added an object field to the json file - for the template in general and for each zone (the operating principle is the same as in HotA)
+- fixed an issue where the size of a randomly generated map would reset when HD mod was active; the game now correctly remembers the map size even if the previous map was larger than the XL format
+- now, when using the HD mod, the name of the selected template is correctly displayed in the top-right corner
+
+
 Version 1.13 (25.10.2026)
 - synchronized with the "ERA Spells" mod – new spells can now appear in scrolls and Pandoras
 - now, the value of a dwelling also depends on the number of cities on the map where that dwelling can be built
